@@ -1,0 +1,12 @@
+db
+Dockerfile
+docker-compose.yml
+.idea
+.ropeproject/
+**/__pycache__
+**/.cache
+**/.pytest_cache
+**/*.sqlite3
+**/.coverage
+**/celerybeat-schedule
+.vscode
