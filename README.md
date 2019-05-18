@@ -1,2 +1,3 @@
-chmod +x entrypoint.sh
-docker-compose up
+# copy .env to project directory
+# chmod +x entrypoint.sh
+# docker-compose up
